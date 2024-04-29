@@ -1,0 +1,33 @@
+2024-04-26 15:08:01.335 [main] INFO  step_definitions.Hooks:24 - ---------------Test Automation has started------------
+2024-04-26 15:08:01.337 [main] INFO  step_definitions.Hooks:25 - Test Scenario : Carcar
+2024-04-26 15:08:01.346 [main] ERROR step_definitions.Hooks:41 - Test scenario ->>> ->>>>> Failed Carcar
+2024-04-26 15:09:35.825 [main] INFO  step_definitions.Hooks:24 - ---------------Test Automation has started------------
+2024-04-26 15:09:35.828 [main] INFO  step_definitions.Hooks:25 - Test Scenario : Carcar
+2024-04-26 15:09:35.842 [main] ERROR step_definitions.Hooks:41 - Test scenario ->>> ->>>>> Failed Carcar
+2024-04-26 15:10:57.503 [main] INFO  step_definitions.Hooks:24 - ---------------Test Automation has started------------
+2024-04-26 15:10:57.508 [main] INFO  step_definitions.Hooks:25 - Test Scenario : Carcar
+2024-04-26 15:10:57.510 [main] INFO  step_definitions.Hooks:26 - Browser type ----> Chrome
+2024-04-26 15:11:05.823 [main] INFO  step_definitions.Hooks:44 - Test scenario -->>> ->>>> Passed
+2024-04-26 15:12:41.058 [main] INFO  step_definitions.Hooks:24 - ---------------Test Automation has started------------
+2024-04-26 15:12:41.064 [main] INFO  step_definitions.Hooks:25 - Test Scenario : Carcar
+2024-04-26 15:12:41.066 [main] INFO  step_definitions.Hooks:26 - Browser type ----> Chrome
+2024-04-26 15:12:45.872 [main] INFO  step_definitions.Hooks:44 - Test scenario -->>> ->>>> Passed
+2024-04-26 15:41:33.309 [main] INFO  step_definitions.Hooks:24 - ---------------Test Automation has started------------
+2024-04-26 15:41:33.313 [main] INFO  step_definitions.Hooks:25 - Test Scenario : Login with valid credentials
+2024-04-26 15:41:33.316 [main] INFO  step_definitions.Hooks:26 - Browser type ----> Chrome
+2024-04-26 15:41:36.063 [main] INFO  step_definitions.Hooks:44 - Test scenario -->>> ->>>> Passed
+2024-04-26 15:41:58.115 [main] INFO  step_definitions.Hooks:24 - ---------------Test Automation has started------------
+2024-04-26 15:41:58.119 [main] INFO  step_definitions.Hooks:25 - Test Scenario : Login with valid credentials
+2024-04-26 15:41:58.121 [main] INFO  step_definitions.Hooks:26 - Browser type ----> Chrome
+2024-04-26 15:42:10.538 [main] ERROR step_definitions.Hooks:41 - Test scenario ->>> ->>>>> Failed Login with valid credentials
+2024-04-26 15:43:51.327 [main] INFO  step_definitions.Hooks:24 - ---------------Test Automation has started------------
+2024-04-26 15:43:51.329 [main] INFO  step_definitions.Hooks:25 - Test Scenario : Login with valid credentials
+2024-04-26 15:43:51.331 [main] INFO  step_definitions.Hooks:26 - Browser type ----> Chrome
+2024-04-26 15:44:15.227 [main] ERROR step_definitions.Hooks:41 - Test scenario ->>> ->>>>> Failed Login with valid credentials
+2024-04-26 15:44:58.243 [main] INFO  step_definitions.Hooks:24 - ---------------Test Automation has started------------
+2024-04-26 15:44:58.246 [main] INFO  step_definitions.Hooks:25 - Test Scenario : Login with valid credentials
+2024-04-26 15:44:58.248 [main] INFO  step_definitions.Hooks:26 - Browser type ----> Chrome
+2024-04-26 15:45:12.271 [main] INFO  step_definitions.Hooks:44 - Test scenario -->>> ->>>> Passed
+2024-04-29 21:51:11.911 [main] INFO  step_definitions.Hooks:24 - ---------------Test Automation has started------------
+2024-04-29 21:51:11.918 [main] INFO  step_definitions.Hooks:25 - Test Scenario : Login with valid credentials
+2024-04-29 21:51:36.854 [main] INFO  step_definitions.Hooks:26 - Browser type ----> Chrome
